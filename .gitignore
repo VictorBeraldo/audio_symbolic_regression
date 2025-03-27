@@ -1,0 +1,5 @@
+*.pkl
+audio_symbolic_regression_env/
+data/raw/*
+data/processed/*
+*.pyc
