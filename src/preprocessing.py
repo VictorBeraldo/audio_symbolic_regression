@@ -63,7 +63,7 @@ def save_melspectrograms_from_folder(folder_path, save_path='../data/processed/m
 def extract_filterbank_features(waveform, sample_rate=16000, n_mels=128, n_fft=1024, hop_length=512):
     """
     Extrai atributos a partir dos filterbanks (coeficientes do Mel Spectrogram antes da conversão para dB).
-    Retorna um vetor de atributos com estatísticas para um classificador como Random Forest.
+    Retorna um vetor de atributos com n_mels*5 estatísticas.
     """
     mel_spec_transform = MelSpectrogram(
         sample_rate=sample_rate,

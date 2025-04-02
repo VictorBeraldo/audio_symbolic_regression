@@ -10,3 +10,4 @@ torchaudio==2.6.0
 tqdm==4.67.1
 pandas==2.2.3
 lightgbm==4.6.0
+pysr==1.5.3

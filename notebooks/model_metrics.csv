@@ -5,3 +5,8 @@ Logistic Regression,21.49,0.9403,0.0864
 LightGBM,2.28,0.9992,0.002
 MLP (Neural Network),11.94,0.9817,0.0334
 SVM,40.6,0.9257,0.1061
+PySR (Basic),250.51,0.8997,0.3242
+PySR (L2MarginLoss),178.19,0.9041,0.7367
+PySR (Basic),95.43,0.9001,0.2633
+PySR (Extended),221.83,0.9354,0.0668
+PySR (Complex),418.49,0.9287,0.1238
