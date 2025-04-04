@@ -10,3 +10,30 @@ PySR (L2MarginLoss),178.19,0.9041,0.7367
 PySR (Basic),95.43,0.9001,0.2633
 PySR (Extended),221.83,0.9354,0.0668
 PySR (Complex),418.49,0.9287,0.1238
+PySR (Basic),301.84,0.9033,0.2633
+PySR (Extended),429.59,0.9464,0.0747
+PySR (Complex),1089.54,0.9374,0.1041
+PySR_batch (Basic),20.63,0.9041,0.2633
+PySR_batch (Extended),28.19,0.8997,0.332
+PySR_batch (Complex),35.96,0.8997,0.2456
+PySR_batch_200 (Basic),16.7,0.9031,0.2633
+PySR_batch_200 (Extended),25.48,0.9216,0.0884
+PySR_batch_200 (Complex),34.73,0.9275,0.1631
+PySR_batch_1000 (Basic),18.91,0.9275,0.1552
+PySR_batch_1000 (Extended),28.55,0.9255,0.167
+PySR_batch_1000 (Complex),39.01,0.8997,0.2377
+PySR_K10 (Basic),301.04,0.8928,0.165
+PySR_K10 (Extended),411.5,0.8997,0.2515
+PySR_K10 (Complex),621.11,0.9533,0.1532
+PySR_batch_500_200it (Basic),86.56,0.9606,0.0923
+PySR_batch_500_250it (Extended),142.99,0.9472,0.0943
+PySR_batch_500_300it (Complex),244.35,0.9606,0.0629
+"PySR_batch_500_200it (Basic, L1)",88.06,0.9007,0.442
+"PySR_batch_500_250it (Extended, L1)",156.05,0.9029,0.5305
+"PySR_batch_500_300it (Complex, L1)",225.07,0.9007,0.4479
+PySR_batch_500_200it (Basic)_balanced,92.05,0.8191,0.1218
+PySR_batch_500_250it (Extended)_balanced,132.15,0.8816,0.1139
+PySR_batch_500_300it (Complex)_balanced,233.63,0.8398,0.1532
+PySR_batch_50_200it (Basic)_balanced,82.74,0.6832,0.2692
+PySR_batch_50_250it (Extended)_balanced,141.44,0.7027,0.2613
+PySR_batch_50_300it (Complex)_balanced,236.89,0.7908,0.2043
