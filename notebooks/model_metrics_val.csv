@@ -37,3 +37,27 @@ PySR_batch_500_300it (Complex)_balanced,233.63,0.8398,0.1532
 PySR_batch_50_200it (Basic)_balanced,82.74,0.6832,0.2692
 PySR_batch_50_250it (Extended)_balanced,141.44,0.7027,0.2613
 PySR_batch_50_300it (Complex)_balanced,236.89,0.7908,0.2043
+mfcc Random Forest,10.15,0.9549,0.055
+mfcc Decision Tree,1.44,0.9281,0.336
+mfcc Logistic Regression,5.27,0.9442,0.1081
+mfcc LightGBM,0.61,0.9775,0.0393
+mfcc MLP (Neural Network),3.38,0.9888,0.0177
+mfcc SVM,1.81,0.9856,0.0275
+mfcc Random Forest,10.02,0.9551,0.0589
+mfcc Decision Tree,1.37,0.9243,0.3497
+mfcc Logistic Regression,4.68,0.9442,0.1081
+mfcc LightGBM,0.25,0.9775,0.0393
+mfcc MLP (Neural Network),3.42,0.988,0.0157
+mfcc SVM,2.62,0.9856,0.0275
+mfcc Random Forest,9.96,0.9549,0.055
+mfcc Decision Tree,1.38,0.9281,0.336
+mfcc Logistic Regression,4.27,0.9442,0.1081
+mfcc LightGBM,0.25,0.9775,0.0393
+mfcc MLP (Neural Network),3.34,0.9888,0.0177
+mfcc SVM,2.29,0.9856,0.0275
+mfcc Random Forest,10.0,0.9549,0.055
+mfcc Decision Tree,1.4,0.9281,0.336
+mfcc Logistic Regression,4.28,0.9442,0.1081
+mfcc LightGBM,0.24,0.9775,0.0393
+mfcc MLP (Neural Network),3.41,0.9888,0.0177
+mfcc SVM,10.51,0.9856,0.0275
