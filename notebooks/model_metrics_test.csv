@@ -1,0 +1,189 @@
+Model,Training Time (sec),Accuracy,EER
+Random Forest,37.49,0.9251,0.3478
+Decision Tree,21.04,0.7817,0.505
+Logistic Regression,25.6,0.9028,0.3608
+LightGBM,2.93,0.8386,0.357
+MLP (Neural Network),24.54,0.8945,0.3619
+SVM,309.88,0.9536,0.316
+Random Forest,2.72,0.9555,0.3743
+Decision Tree,1.24,0.829,0.6221
+Logistic Regression,7.68,0.8819,0.3544
+LightGBM,1.08,0.8522,0.3852
+MLP (Neural Network),5.24,0.8099,0.3128
+SVM,1.95,0.9638,0.3617
+Random Forest,6.07,0.9444,0.3631
+Random Forest,6.1,0.9444,0.3631
+Decision Tree,3.35,0.8145,0.6287
+Logistic Regression,11.76,0.8771,0.3478
+LightGBM,1.22,0.8508,0.3704
+MLP (Neural Network),7.21,0.9155,0.3216
+SVM,12.0,0.9628,0.3315
+Random Forest,5.91,0.9444,0.3631
+Decision Tree,3.54,0.8145,0.6287
+Logistic Regression,11.19,0.8771,0.3478
+LightGBM,1.15,0.8508,0.3704
+MLP (Neural Network),8.2,0.9155,0.3216
+SVM,11.17,0.9628,0.3315
+Random Forest,5.91,0.9444,0.3631
+Decision Tree,3.38,0.8145,0.6287
+Logistic Regression,11.46,0.8771,0.3478
+LightGBM,1.18,0.8508,0.3704
+MLP (Neural Network),9.15,0.9155,0.3216
+SVM,11.34,0.9628,0.3315
+Random Forest,5.93,0.9444,0.3631
+Decision Tree,3.43,0.8145,0.6287
+Logistic Regression,11.02,0.8771,0.3478
+LightGBM,1.16,0.8508,0.3704
+MLP (Neural Network),6.88,0.9155,0.3216
+SVM,11.05,0.9628,0.3315
+Random Forest,5.68,0.9472,0.3613
+Random Forest,5.67,0.9446,0.3568
+Random Forest,5.7,0.9402,0.3631
+Random Forest,5.78,0.9441,0.3631
+Random Forest,5.91,0.9464,0.374
+Random Forest,5.8,0.9518,0.3586
+Random Forest,5.6,0.9345,0.3695
+Random Forest,5.64,0.9483,0.365
+Random Forest,5.58,0.9485,0.3713
+Random Forest,5.71,0.9429,0.3613
+Random Forest,5.58,0.9459,0.3595
+Random Forest,5.79,0.9474,0.3559
+Random Forest,6.01,0.9472,0.3613
+Random Forest,1.11,0.9627,0.3827
+Random Forest,1.13,0.9623,0.3755
+Random Forest,1.17,0.9622,0.3863
+Random Forest,1.09,0.9618,0.361
+Random Forest,1.17,0.9627,0.3899
+Random Forest,1.12,0.9644,0.3899
+Random Forest,1.15,0.9631,0.3791
+Random Forest,1.11,0.9622,0.3755
+Random Forest,1.06,0.9622,0.3863
+Random Forest,1.06,0.9619,0.3827
+Random Forest,1.12,0.9634,0.3863
+Random Forest,1.13,0.9612,0.3682
+Random Forest,1.1,0.9642,0.3791
+Random Forest,1.12,0.9638,0.3863
+Random Forest,1.08,0.9625,0.3971
+Random Forest,1.15,0.9622,0.3755
+Random Forest,1.05,0.9622,0.3718
+Random Forest,1.18,0.9634,0.3863
+Random Forest,1.1,0.9627,0.3827
+Random Forest,1.05,0.9623,0.3755
+Random Forest,1.03,0.9622,0.3863
+Random Forest,1.1,0.9618,0.361
+Random Forest,1.12,0.9627,0.3899
+Random Forest,1.11,0.9644,0.3899
+Random Forest,1.06,0.9631,0.3791
+Random Forest,1.09,0.9622,0.3755
+Random Forest,1.11,0.9622,0.3863
+Random Forest,1.07,0.9619,0.3827
+Decision Tree,0.37,0.8122,0.6282
+Decision Tree,0.39,0.7763,0.5704
+Decision Tree,0.39,0.7776,0.5487
+Decision Tree,0.37,0.8582,0.6462
+Decision Tree,0.41,0.8538,0.8195
+Decision Tree,0.41,0.8108,0.6318
+Decision Tree,0.4,0.7878,0.556
+Decision Tree,0.4,0.8109,0.5921
+Decision Tree,0.41,0.8275,0.6245
+Decision Tree,0.38,0.7807,0.5957
+Logistic Regression,6.47,0.8605,0.3899
+Logistic Regression,6.41,0.8605,0.3899
+Logistic Regression,5.13,0.8605,0.3899
+Logistic Regression,6.45,0.8605,0.3899
+Logistic Regression,6.58,0.8605,0.3899
+Logistic Regression,6.32,0.8605,0.3899
+Logistic Regression,6.25,0.8605,0.3899
+Logistic Regression,4.98,0.8605,0.3899
+Logistic Regression,5.23,0.8605,0.3899
+Logistic Regression,6.26,0.8605,0.3899
+LightGBM,0.85,0.8708,0.3791
+LightGBM,0.92,0.8708,0.3791
+LightGBM,0.8,0.8708,0.3791
+LightGBM,0.87,0.8708,0.3791
+LightGBM,0.83,0.8708,0.3791
+LightGBM,0.82,0.8708,0.3791
+LightGBM,0.86,0.8708,0.3791
+LightGBM,0.82,0.8708,0.3791
+LightGBM,0.83,0.8708,0.3791
+LightGBM,0.93,0.8708,0.3791
+MLP (Neural Network),1.54,0.8865,0.3574
+MLP (Neural Network),0.96,0.7562,0.3357
+MLP (Neural Network),1.43,0.7842,0.3357
+MLP (Neural Network),1.17,0.7935,0.3357
+MLP (Neural Network),2.78,0.7617,0.3321
+MLP (Neural Network),1.05,0.8074,0.3321
+MLP (Neural Network),2.9,0.7862,0.3249
+MLP (Neural Network),1.42,0.8117,0.343
+MLP (Neural Network),1.6,0.7638,0.3285
+MLP (Neural Network),1.75,0.7594,0.3285
+SVM,0.51,0.9638,0.3899
+SVM,0.55,0.9638,0.3899
+SVM,0.47,0.9638,0.3899
+SVM,0.47,0.9638,0.3899
+SVM,0.58,0.9638,0.3899
+SVM,0.5,0.9638,0.3899
+SVM,0.51,0.9638,0.3899
+SVM,0.53,0.9638,0.3899
+SVM,0.5,0.9638,0.3899
+SVM,0.49,0.9638,0.3899
+Random Forest,1.15,0.9627,0.3827
+Random Forest,1.08,0.9623,0.3755
+Random Forest,1.12,0.9622,0.3863
+Random Forest,1.09,0.9618,0.361
+Random Forest,1.11,0.9627,0.3899
+Random Forest,1.17,0.9644,0.3899
+Random Forest,1.08,0.9631,0.3791
+Random Forest,1.13,0.9622,0.3755
+Random Forest,1.07,0.9622,0.3863
+Random Forest,1.16,0.9619,0.3827
+Decision Tree,0.39,0.8122,0.6282
+Decision Tree,0.37,0.7763,0.5704
+Decision Tree,0.45,0.7776,0.5487
+Decision Tree,0.41,0.8582,0.6462
+Decision Tree,0.41,0.8538,0.8195
+Decision Tree,0.38,0.8108,0.6318
+Decision Tree,0.39,0.7878,0.556
+Decision Tree,0.36,0.8109,0.5921
+Decision Tree,0.37,0.8275,0.6245
+Decision Tree,0.36,0.7807,0.5957
+Logistic Regression,6.9,0.8605,0.3899
+Logistic Regression,6.77,0.8605,0.3899
+Logistic Regression,6.0,0.8605,0.3899
+Logistic Regression,6.73,0.8605,0.3899
+Logistic Regression,6.41,0.8605,0.3899
+Logistic Regression,6.05,0.8605,0.3899
+Logistic Regression,6.26,0.8605,0.3899
+Logistic Regression,6.33,0.8605,0.3899
+Logistic Regression,6.07,0.8605,0.3899
+Logistic Regression,6.32,0.8605,0.3899
+LightGBM,0.81,0.8708,0.3791
+LightGBM,0.87,0.8708,0.3791
+LightGBM,0.99,0.8708,0.3791
+LightGBM,0.84,0.8708,0.3791
+LightGBM,0.81,0.8708,0.3791
+LightGBM,0.84,0.8708,0.3791
+LightGBM,0.82,0.8708,0.3791
+LightGBM,0.83,0.8708,0.3791
+LightGBM,0.9,0.8708,0.3791
+LightGBM,0.85,0.8708,0.3791
+MLP (Neural Network),1.93,0.8865,0.3574
+MLP (Neural Network),1.66,0.7562,0.3357
+MLP (Neural Network),3.14,0.7842,0.3357
+MLP (Neural Network),2.54,0.7935,0.3357
+MLP (Neural Network),2.92,0.7617,0.3321
+MLP (Neural Network),1.04,0.8074,0.3321
+MLP (Neural Network),1.31,0.7862,0.3249
+MLP (Neural Network),1.5,0.8117,0.343
+MLP (Neural Network),3.27,0.7638,0.3285
+MLP (Neural Network),3.0,0.7594,0.3285
+SVM,0.49,0.9638,0.3899
+SVM,0.48,0.9638,0.3899
+SVM,0.53,0.9638,0.3899
+SVM,0.53,0.9638,0.3899
+SVM,0.48,0.9638,0.3899
+SVM,0.5,0.9638,0.3899
+SVM,0.55,0.9638,0.3899
+SVM,0.49,0.9638,0.3899
+SVM,0.54,0.9638,0.3899
+SVM,0.5,0.9638,0.3899
