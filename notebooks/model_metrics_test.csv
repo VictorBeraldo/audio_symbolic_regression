@@ -1,297 +1,91 @@
-Model,Training Time (sec),Accuracy,EER
-Random Forest,37.49,0.9251,0.3478
-Decision Tree,21.04,0.7817,0.505
-Logistic Regression,25.6,0.9028,0.3608
-LightGBM,2.93,0.8386,0.357
-MLP (Neural Network),24.54,0.8945,0.3619
-SVM,309.88,0.9536,0.316
-Random Forest,2.72,0.9555,0.3743
-Decision Tree,1.24,0.829,0.6221
-Logistic Regression,7.68,0.8819,0.3544
-LightGBM,1.08,0.8522,0.3852
-MLP (Neural Network),5.24,0.8099,0.3128
-SVM,1.95,0.9638,0.3617
-Random Forest,6.07,0.9444,0.3631
-Random Forest,6.1,0.9444,0.3631
-Decision Tree,3.35,0.8145,0.6287
-Logistic Regression,11.76,0.8771,0.3478
-LightGBM,1.22,0.8508,0.3704
-MLP (Neural Network),7.21,0.9155,0.3216
-SVM,12.0,0.9628,0.3315
-Random Forest,5.91,0.9444,0.3631
-Decision Tree,3.54,0.8145,0.6287
-Logistic Regression,11.19,0.8771,0.3478
-LightGBM,1.15,0.8508,0.3704
-MLP (Neural Network),8.2,0.9155,0.3216
-SVM,11.17,0.9628,0.3315
-Random Forest,5.91,0.9444,0.3631
-Decision Tree,3.38,0.8145,0.6287
-Logistic Regression,11.46,0.8771,0.3478
-LightGBM,1.18,0.8508,0.3704
-MLP (Neural Network),9.15,0.9155,0.3216
-SVM,11.34,0.9628,0.3315
-Random Forest,5.93,0.9444,0.3631
-Decision Tree,3.43,0.8145,0.6287
-Logistic Regression,11.02,0.8771,0.3478
-LightGBM,1.16,0.8508,0.3704
-MLP (Neural Network),6.88,0.9155,0.3216
-SVM,11.05,0.9628,0.3315
-Random Forest,5.68,0.9472,0.3613
-Random Forest,5.67,0.9446,0.3568
-Random Forest,5.7,0.9402,0.3631
-Random Forest,5.78,0.9441,0.3631
-Random Forest,5.91,0.9464,0.374
-Random Forest,5.8,0.9518,0.3586
-Random Forest,5.6,0.9345,0.3695
-Random Forest,5.64,0.9483,0.365
-Random Forest,5.58,0.9485,0.3713
-Random Forest,5.71,0.9429,0.3613
-Random Forest,5.58,0.9459,0.3595
-Random Forest,5.79,0.9474,0.3559
-Random Forest,6.01,0.9472,0.3613
-Random Forest,1.11,0.9627,0.3827
-Random Forest,1.13,0.9623,0.3755
-Random Forest,1.17,0.9622,0.3863
-Random Forest,1.09,0.9618,0.361
-Random Forest,1.17,0.9627,0.3899
-Random Forest,1.12,0.9644,0.3899
-Random Forest,1.15,0.9631,0.3791
-Random Forest,1.11,0.9622,0.3755
-Random Forest,1.06,0.9622,0.3863
-Random Forest,1.06,0.9619,0.3827
-Random Forest,1.12,0.9634,0.3863
-Random Forest,1.13,0.9612,0.3682
-Random Forest,1.1,0.9642,0.3791
-Random Forest,1.12,0.9638,0.3863
-Random Forest,1.08,0.9625,0.3971
-Random Forest,1.15,0.9622,0.3755
-Random Forest,1.05,0.9622,0.3718
-Random Forest,1.18,0.9634,0.3863
-Random Forest,1.1,0.9627,0.3827
-Random Forest,1.05,0.9623,0.3755
-Random Forest,1.03,0.9622,0.3863
-Random Forest,1.1,0.9618,0.361
-Random Forest,1.12,0.9627,0.3899
-Random Forest,1.11,0.9644,0.3899
-Random Forest,1.06,0.9631,0.3791
-Random Forest,1.09,0.9622,0.3755
-Random Forest,1.11,0.9622,0.3863
-Random Forest,1.07,0.9619,0.3827
-Decision Tree,0.37,0.8122,0.6282
-Decision Tree,0.39,0.7763,0.5704
-Decision Tree,0.39,0.7776,0.5487
-Decision Tree,0.37,0.8582,0.6462
-Decision Tree,0.41,0.8538,0.8195
-Decision Tree,0.41,0.8108,0.6318
-Decision Tree,0.4,0.7878,0.556
-Decision Tree,0.4,0.8109,0.5921
-Decision Tree,0.41,0.8275,0.6245
-Decision Tree,0.38,0.7807,0.5957
-Logistic Regression,6.47,0.8605,0.3899
-Logistic Regression,6.41,0.8605,0.3899
-Logistic Regression,5.13,0.8605,0.3899
-Logistic Regression,6.45,0.8605,0.3899
-Logistic Regression,6.58,0.8605,0.3899
-Logistic Regression,6.32,0.8605,0.3899
-Logistic Regression,6.25,0.8605,0.3899
-Logistic Regression,4.98,0.8605,0.3899
-Logistic Regression,5.23,0.8605,0.3899
-Logistic Regression,6.26,0.8605,0.3899
-LightGBM,0.85,0.8708,0.3791
-LightGBM,0.92,0.8708,0.3791
-LightGBM,0.8,0.8708,0.3791
-LightGBM,0.87,0.8708,0.3791
-LightGBM,0.83,0.8708,0.3791
-LightGBM,0.82,0.8708,0.3791
-LightGBM,0.86,0.8708,0.3791
-LightGBM,0.82,0.8708,0.3791
-LightGBM,0.83,0.8708,0.3791
-LightGBM,0.93,0.8708,0.3791
-MLP (Neural Network),1.54,0.8865,0.3574
-MLP (Neural Network),0.96,0.7562,0.3357
-MLP (Neural Network),1.43,0.7842,0.3357
-MLP (Neural Network),1.17,0.7935,0.3357
-MLP (Neural Network),2.78,0.7617,0.3321
-MLP (Neural Network),1.05,0.8074,0.3321
-MLP (Neural Network),2.9,0.7862,0.3249
-MLP (Neural Network),1.42,0.8117,0.343
-MLP (Neural Network),1.6,0.7638,0.3285
-MLP (Neural Network),1.75,0.7594,0.3285
-SVM,0.51,0.9638,0.3899
-SVM,0.55,0.9638,0.3899
-SVM,0.47,0.9638,0.3899
-SVM,0.47,0.9638,0.3899
-SVM,0.58,0.9638,0.3899
-SVM,0.5,0.9638,0.3899
-SVM,0.51,0.9638,0.3899
-SVM,0.53,0.9638,0.3899
-SVM,0.5,0.9638,0.3899
-SVM,0.49,0.9638,0.3899
-Random Forest,1.15,0.9627,0.3827
-Random Forest,1.08,0.9623,0.3755
-Random Forest,1.12,0.9622,0.3863
-Random Forest,1.09,0.9618,0.361
-Random Forest,1.11,0.9627,0.3899
-Random Forest,1.17,0.9644,0.3899
-Random Forest,1.08,0.9631,0.3791
-Random Forest,1.13,0.9622,0.3755
-Random Forest,1.07,0.9622,0.3863
-Random Forest,1.16,0.9619,0.3827
-Decision Tree,0.39,0.8122,0.6282
-Decision Tree,0.37,0.7763,0.5704
-Decision Tree,0.45,0.7776,0.5487
-Decision Tree,0.41,0.8582,0.6462
-Decision Tree,0.41,0.8538,0.8195
-Decision Tree,0.38,0.8108,0.6318
-Decision Tree,0.39,0.7878,0.556
-Decision Tree,0.36,0.8109,0.5921
-Decision Tree,0.37,0.8275,0.6245
-Decision Tree,0.36,0.7807,0.5957
-Logistic Regression,6.9,0.8605,0.3899
-Logistic Regression,6.77,0.8605,0.3899
-Logistic Regression,6.0,0.8605,0.3899
-Logistic Regression,6.73,0.8605,0.3899
-Logistic Regression,6.41,0.8605,0.3899
-Logistic Regression,6.05,0.8605,0.3899
-Logistic Regression,6.26,0.8605,0.3899
-Logistic Regression,6.33,0.8605,0.3899
-Logistic Regression,6.07,0.8605,0.3899
-Logistic Regression,6.32,0.8605,0.3899
-LightGBM,0.81,0.8708,0.3791
-LightGBM,0.87,0.8708,0.3791
-LightGBM,0.99,0.8708,0.3791
-LightGBM,0.84,0.8708,0.3791
-LightGBM,0.81,0.8708,0.3791
-LightGBM,0.84,0.8708,0.3791
-LightGBM,0.82,0.8708,0.3791
-LightGBM,0.83,0.8708,0.3791
-LightGBM,0.9,0.8708,0.3791
-LightGBM,0.85,0.8708,0.3791
-MLP (Neural Network),1.93,0.8865,0.3574
-MLP (Neural Network),1.66,0.7562,0.3357
-MLP (Neural Network),3.14,0.7842,0.3357
-MLP (Neural Network),2.54,0.7935,0.3357
-MLP (Neural Network),2.92,0.7617,0.3321
-MLP (Neural Network),1.04,0.8074,0.3321
-MLP (Neural Network),1.31,0.7862,0.3249
-MLP (Neural Network),1.5,0.8117,0.343
-MLP (Neural Network),3.27,0.7638,0.3285
-MLP (Neural Network),3.0,0.7594,0.3285
-SVM,0.49,0.9638,0.3899
-SVM,0.48,0.9638,0.3899
-SVM,0.53,0.9638,0.3899
-SVM,0.53,0.9638,0.3899
-SVM,0.48,0.9638,0.3899
-SVM,0.5,0.9638,0.3899
-SVM,0.55,0.9638,0.3899
-SVM,0.49,0.9638,0.3899
-SVM,0.54,0.9638,0.3899
-SVM,0.5,0.9638,0.3899
-PySR_batch_500_200it (Basic),9.27,0.9623,0.4555
-PySR_batch_500_200it (Basic),14.13,0.9638,0.3234
-PySR_batch_500_200it (Basic),16.18,0.9614,0.387
-PySR_batch_500_200it (Basic),5.44,0.9638,0.5686
-PySR_batch_500_200it (Basic),4.96,0.9473,0.4632
-PySR_batch_500_200it (Basic),14.48,0.9498,0.4681
-PySR_batch_500_200it (Basic),4.33,0.9632,0.4668
-PySR_batch_500_200it (Basic),5.1,0.9623,0.4345
-PySR_batch_500_200it (Basic),6.33,0.962,0.387
-PySR_batch_500_200it (Basic),10.02,0.9584,0.4085
-PySR_batch_500_250it (Extended),6.13,0.9608,0.5603
-PySR_batch_500_250it (Extended),10.97,0.9616,0.5689
-PySR_batch_500_250it (Extended),14.97,0.9565,0.5657
-PySR_batch_500_250it (Extended),12.19,0.9623,0.387
-PySR_batch_500_250it (Extended),8.92,0.9638,0.3124
-PySR_batch_500_250it (Extended),8.51,0.9638,0.568
-PySR_batch_500_250it (Extended),8.03,0.9622,0.3921
-PySR_batch_500_250it (Extended),9.41,0.9638,0.3106
-PySR_batch_500_250it (Extended),9.23,0.9589,0.4782
-PySR_batch_500_250it (Extended),14.34,0.9548,0.566
-PySR_batch_500_300it (Complex),10.6,0.9638,0.3149
-PySR_batch_500_300it (Complex),15.51,0.9622,0.387
-PySR_batch_500_300it (Complex),11.52,0.9638,0.3435
-PySR_batch_500_300it (Complex),14.21,0.9638,0.3024
-PySR_batch_500_300it (Complex),19.4,0.9638,0.4307
-PySR_batch_500_300it (Complex),8.98,0.9638,0.4163
-PySR_batch_500_300it (Complex),14.56,0.9597,0.4558
-PySR_batch_500_300it (Complex),9.71,0.9624,0.4641
-PySR_batch_500_300it (Complex),16.93,0.9599,0.5024
-PySR_batch_500_300it (Complex),12.8,0.9638,0.4304
-PySR_batch_500_200it (Basic),11.18,0.9612,0.4555
-PySR_batch_500_200it (Basic),7.91,0.9638,0.3384
-PySR_batch_500_200it (Basic),13.56,0.9603,0.387
-PySR_batch_500_200it (Basic),7.0,0.962,0.387
-PySR_batch_500_200it (Basic),7.18,0.9467,0.464
-PySR_batch_500_200it (Basic),7.49,0.94,0.4555
-PySR_batch_500_200it (Basic),10.25,0.9638,0.3839
-PySR_batch_500_200it (Basic),9.4,0.9623,0.4345
-PySR_batch_500_200it (Basic),4.92,0.962,0.387
-PySR_batch_500_200it (Basic),7.21,0.9584,0.4085
-PySR_batch_500_250it (Extended),9.9,0.9608,0.5603
-PySR_batch_500_250it (Extended),10.22,0.9602,0.3689
-PySR_batch_500_250it (Extended),9.02,0.9501,0.5574
-PySR_batch_500_200it (Basic),41.4,0.944,0.4555
-PySR_batch_500_200it (Basic),3.11,0.9638,1.0
-PySR_batch_500_200it (Basic),8.52,0.9631,0.4517
-PySR_batch_500_200it (Basic),2.36,0.9638,1.0
-PySR_batch_500_200it (Basic),5.03,0.9638,1.0
-PySR_batch_500_200it (Basic),18.98,0.9555,0.4576
-PySR_batch_500_200it (Basic),23.73,0.9638,0.3203
-PySR_batch_500_200it (Basic),17.32,0.961,0.4314
-PySR_batch_500_200it (Basic),14.28,0.962,0.387
-PySR_batch_500_200it (Basic),26.7,0.9638,0.3247
-PySR_batch_500_200it (Basic),24.0,0.9307,0.4558
-PySR_batch_500_200it (Basic),18.14,0.9627,0.4687
-PySR_batch_500_200it (Basic),20.68,0.9638,0.3733
-PySR_batch_500_200it (Basic),19.83,0.9638,0.3304
-PySR_batch_500_200it (Basic),11.05,0.961,0.4555
-PySR_batch_500_250it (Extended),24.26,0.9555,0.3557
-PySR_batch_500_250it (Extended),14.83,0.9601,0.4869
-PySR_batch_500_250it (Extended),20.47,0.9564,0.5662
-PySR_batch_500_250it (Extended),17.74,0.959,0.5618
-PySR_batch_500_250it (Extended),21.43,0.954,0.564
-PySR_batch_500_250it (Extended),22.53,0.9575,0.5626
-PySR_batch_500_250it (Extended),20.2,0.9638,0.3241
-PySR_batch_500_250it (Extended),16.21,0.9638,0.3162
-PySR_batch_500_250it (Extended),21.88,0.9556,0.4764
-PySR_batch_500_250it (Extended),21.96,0.9638,0.3418
-PySR_batch_500_300it (Complex),33.06,0.9634,0.3987
-PySR_batch_500_300it (Complex),35.15,0.9537,0.3416
-PySR_batch_500_300it (Complex),30.85,0.9538,0.3682
-PySR_batch_500_300it (Complex),30.81,0.9638,0.3086
-PySR_batch_500_300it (Complex),32.1,0.9638,0.3552
-PySR_batch_500_300it (Complex),35.37,0.9638,0.3024
-PySR_batch_500_300it (Complex),32.69,0.9601,0.387
-PySR_batch_500_300it (Complex),29.71,0.9638,0.6242
-PySR_batch_500_300it (Complex),28.71,0.9638,0.507
-PySR_batch_500_300it (Complex),34.48,0.9638,0.3996
-PySR_batch_500_200it (Basic),17.21,0.9638,0.3483
-PySR_batch_500_200it (Basic),21.71,0.9564,0.3098
-PySR_batch_500_200it (Basic),21.92,0.9638,0.3098
-PySR_batch_500_200it (Basic),22.96,0.9576,0.3792
-PySR_batch_500_200it (Basic),24.42,0.9638,0.3565
-PySR_batch_500_200it (Basic),20.69,0.9598,0.2949
-PySR_batch_500_200it (Basic),23.43,0.9638,0.3565
-PySR_batch_500_200it (Basic),22.15,0.9638,0.3447
-PySR_batch_500_200it (Basic),21.86,0.9631,0.3565
-PySR_batch_500_200it (Basic),15.78,0.9497,0.3044
-PySR_batch_500_250it (Extended),25.47,0.9638,0.3091
-PySR_batch_500_250it (Extended),28.66,0.9638,0.3098
-PySR_batch_500_250it (Extended),30.24,0.9638,0.3098
-PySR_batch_500_250it (Extended),28.14,0.9554,0.31
-PySR_batch_500_250it (Extended),29.39,0.9638,0.3274
-PySR_batch_500_250it (Extended),28.28,0.9634,0.31
-PySR_batch_500_250it (Extended),27.55,0.9638,0.3093
-PySR_batch_500_250it (Extended),25.54,0.9638,0.3556
-PySR_batch_500_250it (Extended),17.37,0.9638,0.321
-PySR_batch_500_250it (Extended),30.0,0.9637,0.3106
-PySR_batch_500_300it (Complex),34.27,0.9638,0.3483
-PySR_batch_500_300it (Complex),36.75,0.9556,0.3451
-PySR_batch_500_300it (Complex),34.31,0.9622,0.3079
-PySR_batch_500_300it (Complex),25.89,0.9637,0.3098
-PySR_batch_500_300it (Complex),47.31,0.9638,0.3483
-PySR_batch_500_300it (Complex),35.47,0.9638,0.31
-PySR_batch_500_300it (Complex),27.88,0.9638,0.31
-PySR_batch_500_300it (Complex),42.78,0.9638,0.3098
-PySR_batch_500_300it (Complex),32.12,0.9638,0.3098
-PySR_batch_500_300it (Complex),32.69,0.9632,0.4072
+Model,Training Time (sec),Accuracy,EER_train,EER
+PySR_batch_500_200it (Basic),428.6,0.9426,0.1395,0.4551
+PySR_batch_500_200it (Basic),306.3,0.8802,0.1981,0.3881
+PySR_batch_500_200it (Basic),311.61,0.936,0.143,0.4584
+PySR_batch_500_200it (Basic),308.67,0.9347,0.0938,0.4629
+PySR_batch_500_200it (Basic),313.14,0.9396,0.1279,0.4701
+PySR_batch_500_200it (Basic),293.44,0.929,0.0911,0.4564
+PySR_batch_500_200it (Basic),302.12,0.929,0.0733,0.4578
+PySR_batch_500_200it (Basic),315.22,0.9318,0.0907,0.4378
+PySR_batch_500_200it (Basic),365.69,0.9413,0.1225,0.4446
+PySR_batch_500_200it (Basic),312.03,0.9386,0.1167,0.443
+PySR_batch_500_250it (Extended),483.29,0.928,0.088,0.4587
+PySR_batch_500_250it (Extended),559.58,0.8285,0.1376,0.4051
+PySR_batch_500_250it (Extended),516.39,0.8556,0.2368,0.4132
+PySR_batch_500_250it (Extended),470.9,0.9121,0.0775,0.4569
+PySR_batch_500_250it (Extended),497.14,0.9156,0.1384,0.4818
+PySR_batch_500_250it (Extended),487.11,0.901,0.0791,0.4676
+PySR_batch_500_250it (Extended),467.07,0.8269,0.1531,0.4237
+PySR_batch_500_250it (Extended),398.0,0.9066,0.1081,0.4634
+PySR_batch_500_250it (Extended),491.08,0.8385,0.1341,0.3864
+PySR_batch_500_250it (Extended),450.66,0.8891,0.2992,0.4258
+PySR_batch_500_300it (Complex),564.01,0.8219,0.1209,0.4356
+PySR_batch_500_300it (Complex),616.06,0.9401,0.126,0.4706
+PySR_batch_500_300it (Complex),606.37,0.9294,0.0857,0.4078
+PySR_batch_500_300it (Complex),713.74,0.8202,0.1314,0.385
+PySR_batch_500_300it (Complex),544.69,0.9465,0.0919,0.3024
+PySR_batch_500_300it (Complex),481.04,0.9199,0.1128,0.4726
+PySR_batch_500_300it (Complex),589.67,0.9366,0.0992,0.4627
+PySR_batch_500_300it (Complex),672.16,0.9283,0.1411,0.4648
+PySR_batch_500_300it (Complex),599.3,0.9388,0.0977,0.4403
+PySR_batch_500_300it (Complex),761.84,0.9389,0.1295,0.3039
+Random Forest,45.25,0.9319,0.0,0.3537
+Random Forest,44.45,0.9311,0.0,0.3604
+Random Forest,45.78,0.933,0.0,0.3617
+Random Forest,44.99,0.9318,0.0,0.3476
+Random Forest,44.64,0.9309,0.0,0.3561
+Random Forest,44.78,0.9289,0.0,0.3532
+Random Forest,44.26,0.9316,0.0,0.3597
+Random Forest,45.1,0.9373,0.0,0.348
+Random Forest,45.1,0.9304,0.0,0.3588
+Random Forest,43.8,0.9392,0.0,0.3528
+Decision Tree,25.62,0.8219,0.0,0.5821
+Decision Tree,25.17,0.793,0.0,0.5183
+Decision Tree,25.0,0.8151,0.0,0.5883
+Decision Tree,25.35,0.8181,0.0,0.5827
+Decision Tree,25.01,0.8408,0.0,0.6289
+Decision Tree,25.49,0.8085,0.0,0.5807
+Decision Tree,24.95,0.8153,0.0,0.5928
+Decision Tree,25.04,0.8457,0.0,0.6396
+Decision Tree,25.38,0.8171,0.0,0.5819
+Decision Tree,25.4,0.8354,0.0,0.6219
+Logistic Regression,21.56,0.9028,0.0713,0.3608
+Logistic Regression,22.2,0.9028,0.0713,0.3608
+Logistic Regression,24.66,0.9028,0.0713,0.3608
+Logistic Regression,21.12,0.9028,0.0713,0.3608
+Logistic Regression,22.79,0.9028,0.0713,0.3608
+Logistic Regression,22.99,0.9028,0.0713,0.3608
+Logistic Regression,22.27,0.9028,0.0713,0.3608
+Logistic Regression,24.67,0.9028,0.0713,0.3608
+Logistic Regression,22.0,0.9028,0.0713,0.3608
+Logistic Regression,23.35,0.9028,0.0713,0.3608
+LightGBM,3.04,0.8386,0.0,0.357
+LightGBM,2.65,0.8386,0.0,0.357
+LightGBM,2.64,0.8386,0.0,0.357
+LightGBM,2.58,0.8386,0.0,0.357
+LightGBM,2.65,0.8386,0.0,0.357
+LightGBM,2.58,0.8386,0.0,0.357
+LightGBM,2.6,0.8386,0.0,0.357
+LightGBM,2.64,0.8386,0.0,0.357
+LightGBM,2.61,0.8386,0.0,0.357
+LightGBM,2.6,0.8386,0.0,0.357
+MLP (Neural Network),22.23,0.8971,0.0,0.3715
+MLP (Neural Network),22.22,0.9101,0.0,0.3843
+MLP (Neural Network),25.31,0.8965,0.0,0.3689
+MLP (Neural Network),21.8,0.8714,0.0,0.3626
+MLP (Neural Network),23.82,0.8866,0.0,0.3599
+MLP (Neural Network),21.27,0.897,0.0,0.3534
+MLP (Neural Network),24.38,0.8979,0.0,0.3715
+MLP (Neural Network),22.01,0.9099,0.0,0.3839
+MLP (Neural Network),24.29,0.897,0.0,0.3915
+MLP (Neural Network),23.09,0.8914,0.0,0.3491
+SVM,357.19,0.9536,0.0516,0.316
+SVM,356.99,0.9536,0.0516,0.316
+SVM,331.11,0.9536,0.0516,0.316
+SVM,335.75,0.9536,0.0516,0.316
+SVM,331.23,0.9536,0.0516,0.316
+SVM,333.08,0.9536,0.0516,0.316
+SVM,336.44,0.9536,0.0516,0.316
+SVM,336.76,0.9536,0.0516,0.316
+SVM,337.27,0.9536,0.0516,0.316
+SVM,332.27,0.9536,0.0516,0.316
